@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "description": "koch wasser",
+    "status": "todo",
+    "createdAt": "2025-05-13T12:13:34.995157",
+    "updatedAt": "2025-05-13T13:53:47.720251"
+  },
+  {
+    "id": 3,
+    "description": "make banana bread",
+    "status": "in-progress",
+    "createdAt": "2025-05-13T12:41:07.943719",
+    "updatedAt": "2025-05-13T13:54:05.595050"
+  },
+  {
+    "id": 4,
+    "description": "pass my finals",
+    "status": "done",
+    "createdAt": "2025-05-13T13:37:38.155430",
+    "updatedAt": "2025-05-13T13:54:31.752477"
+  },
+  {
+    "id": 5,
+    "description": "gotta go to the store and get some groceries",
+    "status": "done",
+    "createdAt": "2025-05-13T13:38:31.892909",
+    "updatedAt": "2025-05-13T13:46:58.913216"
+  },
+  {
+    "id": 6,
+    "description": "have a coffee!",
+    "status": "todo",
+    "createdAt": "2025-05-13T13:52:35.650077",
+    "updatedAt": "2025-05-13T13:54:54.666764"
+  }
+]
